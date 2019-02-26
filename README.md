@@ -3,9 +3,9 @@ CantineoQueTeVeo es un Concurso SEO organizado por https://cantinamarketera.com/
 
 Su web oficial es [http://cantineoqtveo.com/cantineoqueteveo.html](http://cantineoqtveo.com/cantineoqueteveo.html).
 
-<!--
-https://www.seobox.club/cantineoqueteveo-ranking-seo-oficial
--->
+Y el ranking se puede ver en:
+
+https://members.seobox.club/landings/cantineoqueteveo.html
 
 1. [jlmora] Aviso de cookies que la mierda esas tiene 34 y ya me están diciendo por Twitter.
 2. [jlmora] Redes Sociales, Twitter ya la he creado y me falta Facebook
